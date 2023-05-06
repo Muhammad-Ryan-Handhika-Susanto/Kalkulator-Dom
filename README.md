@@ -1,3 +1,3 @@
 # Kalkulator-Dom
 - Responsiv
-- Menggunakan HTML, CSS, dan javaScript(DOM = "onclick()" )
+- Menggunakan HTML, CSS, dan javaScript ( DOM = "onclick()" )
